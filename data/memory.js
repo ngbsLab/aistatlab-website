@@ -1,6 +1,18 @@
 // Year-only dates have no confirmed month/day.
 window.LAB_MEMORY = [
   {
+    "date": "2026-10-28",
+    "category": "conference",
+    "en": "2026 DCASE in Boston",
+    "ko": "2026 DCASE 보스턴 학회",
+    "image": "assets/img/memory/2026_Dcase_1.jpg",
+    "images": [
+      "assets/img/memory/2026_Dcase_1.jpg",
+      "assets/img/memory/2026_Dcase_2.jpg",
+      "assets/img/memory/2026_Dcase_3.jpg"
+    ]
+  },
+  {
     "date": "2026-09-23",
     "category": "conference",
     "en": "2026 CLEF Conference",

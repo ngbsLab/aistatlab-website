@@ -4,6 +4,28 @@ window.LAB_CONTENT = {
   "publications": [
     {
       "year": 2026,
+      "authors": "Kim, M., Song, H., and Lim, C.",
+      "title": "Visual Dependence Does Not Imply Answerability: A Systematic Analysis of Answerability Signals in Frozen InstructBLIP",
+      "venue": "arXiv:2610.17902",
+      "type": "Preprint",
+      "url": "https://arxiv.org/abs/2610.17902",
+      "tags": [
+        "Computer Vision"
+      ]
+    },
+    {
+      "year": 2026,
+      "authors": "Kim, C., and Lim, C.",
+      "title": "Auditing Observation-Quality Shortcuts in the Evaluation of Person-Centered Motion for Video Anomaly Detection",
+      "venue": "arXiv:2610.16471",
+      "type": "Preprint",
+      "url": "https://arxiv.org/abs/2610.16471",
+      "tags": [
+        "Computer Vision"
+      ]
+    },
+    {
+      "year": 2026,
       "authors": "Shin, W.-Y., Baek, S., Lee, S. Y., Lim, C., Moon, K., Jang, S., and Kim, J.-H.",
       "title": "Culturally adapted wearable mobile health intervention for physical activity and cognitive function in middle-aged Koreans: a pilot feasibility study",
       "venue": "Journal of Yeungnam Medical Science, 43, 53",
